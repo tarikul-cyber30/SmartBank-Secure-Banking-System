@@ -1,4 +1,4 @@
-# 🏦 SmartBank v2.1 – Secure File-Based Banking System
+# 🏦 SmartBank – Secure File-Based Banking System
 
 A secure console-based banking application developed in **C++11** using **Object-Oriented Programming (OOP)** principles. SmartBank simulates real-world banking operations while integrating modern cybersecurity mechanisms including **custom SHA-256 password hashing with per-user salt**, **XOR-encrypted persistent storage**, **OTP-based Multi-Factor Authentication (MFA)**, **account lockout**, **ATM card blocking**, **administrator authentication**, **audit logging**, and **transaction history management**.
 
